@@ -1,5 +1,5 @@
 import Skeleton from "../common/Skeleton";
-import ButtonPlay from "../common/ButtonPlay";
+import MainLogic from "./MainLogic";
 
 function Sidebar() {
     return (
@@ -7,7 +7,7 @@ function Sidebar() {
             
             <Skeleton />
 
-            <ButtonPlay />
+            <MainLogic />
 
         </section>
     );

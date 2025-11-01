@@ -4,6 +4,9 @@ body {
   background-image: url('/src/assets/background.svg');
   background-repeat: repeat;
   background-size: 500px 500px;
+  width: 400px;
+  margin: 0 auto;
+  min-height: 600px
 }
 
 .font-kanit {
